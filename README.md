@@ -1,0 +1,2 @@
+# mercandoandosena
+proyecto incial sena
